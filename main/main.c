@@ -469,7 +469,7 @@ void keyboard(unsigned char key, int x, int y)
   switch (key)
   {
   case 'r':
-    eixo = (eixo + 1) % 10;
+    eixo = (eixo + 2) % 5;
     glRotatef ((GLfloat) eixo, 0.0, 1.0, 0.0);
     glutPostRedisplay();
     break;
