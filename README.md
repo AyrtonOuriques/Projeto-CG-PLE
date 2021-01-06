@@ -1,8 +1,8 @@
 # Projeto-CG-PLE
 
--Segurar "r" para rodar o quarto. 
--Apertar "p" para abrir ou fechar a porta.
--Apertar "j" para abrir ou fechar a janela.
+-Segurar "r" para rodar o quarto. <br />
+-Apertar "p" para abrir ou fechar a porta.<br />
+-Apertar "j" para abrir ou fechar a janela.<br />
 
 Bibliotecas: <br />
 #include <stdlib.h><br />
